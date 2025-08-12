@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
-- 🔭 I’m currently working on **Credit Card Fraud Detuction and Analysis**
+- 🔭 I’m currently working on **Credit Card Fraud Detuction and Analysis Project**
 
 - 🌱 I’m currently learning **Deep Learning, Neural Networks and Finacial Risk Modelling**
 
