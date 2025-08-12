@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Sharma</h1>
 <h3 align="center">I’m passionate about Data Analysis, Finance, and Data Science, and I love working with data to extract meaningful insights.</h3>
 
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
+
 - 🔭 I’m currently working on **Credit Card Fraud Detuction and Analysis**
 
 - 🌱 I’m currently learning **Deep Learning, Neural Networks and Finacial Risk Modelling**
