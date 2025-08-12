@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Deep Learning, Neural Networks and Finacial Risk Modelling
 
-- 📫 How to reach me **f20221527@pilani.bits-pilani.ac.in**
+- 📫 How to reach me f20221527@pilani.bits-pilani.ac.in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
