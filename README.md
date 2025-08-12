@@ -51,16 +51,19 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<!-- GitHub Stats -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshu666&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshu666&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu666&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
+
+<!-- Activity Graph -->
+<h3 align="left">🔥 My GitHub Activity</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=divyanshu666&show_icons=true&locale=en" alt="GitHub Stats"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshu666&bg_color=0d1117&color=79c0ff&line=ff7b72&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=divyanshu666&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+
+
 
 
 
