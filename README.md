@@ -1,3 +1,5 @@
+![logo](https://github.com/divyanshu666/divyanshu666/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Divyanshu Sharma</h1>
 <h3 align="center">I’m passionate about Data Analysis, Finance, and Data Science, and I love working with data to extract meaningful insights.</h3>
 
