@@ -9,7 +9,8 @@
 
 - 🔭 I’m currently working on **Credit Card Fraud Detection and Analysis Project**  
 - 🌱 I’m currently learning **Deep Learning, Neural Networks, and Financial Risk Modelling**  
-- 📫 How to reach me: **f20221527@pilani.bits-pilani.ac.in**  
+- 📫 How to reach me: **f20221527@pilani.bits-pilani.ac.in**
+- 🔎Research_work:<a href="https://drive.google.com/drive/folders/1iUYP445gNaH1GGc9CgMUPUvxuE4JeRL6?usp=drive_link" target="_blank"> Drive Link </a>
 
 ---
 
